@@ -1,20 +1,20 @@
 # BMI 計算機
 
-A simple Body Mass Index (BMI) calculator built with React, TypeScript, Tailwind CSS, and Vite.
+一個簡單的身體質量指數 (BMI) 計算工具，使用 React、TypeScript、Tailwind CSS 與 Vite 建構。
 
-View your app in AI Studio: https://ai.studio/apps/e8128a80-2c8c-428f-b47e-54603b688aae
+在 AI Studio 中檢視應用程式：https://ai.studio/apps/e8128a80-2c8c-428f-b47e-54603b688aae
 
-## Development
+## 本地開發
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Build
+## 建置
 
 ```bash
 npm run build
 ```
 
-Deployed on [Cloudflare Pages](https://pages.cloudflare.com/).
+部署於 [Cloudflare Pages](https://pages.cloudflare.com/)。
